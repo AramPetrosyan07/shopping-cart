@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//arampetrosyan07.github.io/ShoppingCart/static/css/main.a5d3c348.css",
+    "main.js": "//arampetrosyan07.github.io/ShoppingCart/static/js/main.d07e3659.js",
+    "index.html": "//arampetrosyan07.github.io/ShoppingCart/index.html",
+    "main.a5d3c348.css.map": "//arampetrosyan07.github.io/ShoppingCart/static/css/main.a5d3c348.css.map",
+    "main.d07e3659.js.map": "//arampetrosyan07.github.io/ShoppingCart/static/js/main.d07e3659.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d3c348.css",
+    "static/js/main.d07e3659.js"
+  ]
+}
